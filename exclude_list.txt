@@ -1,0 +1,15 @@
+/dev/*
+/proc/*
+/sys/*
+/tmp/*
+/run/*
+/mnt/*
+/media/*
+/lost+found
+/var/cache/*
+/var/snap/*
+/var/run/*
+/var/lock/*
+/var/tmp/*
+/var/log/*
+/var/mail/*
